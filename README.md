@@ -83,16 +83,16 @@ java -cp bin up.MainApp.App
 java -jar PathFinder.jar --help
 
 # Dijkstra (défaut)
-java -jar PathFinder.jar graphe.txt
+java -jar MapPathFinder.jar graphe.txt
 
 # A* avec heuristique euclidienne
-java -jar PathFinder.jar -a astar graphe.txt
+java -jar MapPathFinder.jar -a astar graphe.txt
 
 # A* avec heuristique de Manhattan
-java -jar PathFinder.jar -a astar -h manhattan graphe.txt
+java -jar MapPathFinder.jar -a astar -h manhattan graphe.txt
 
 # A* avec heuristique de Chebyshev
-java -jar PathFinder.jar -a astar -h chebyshev graphe.txt
+java -jar MapPathFinder.jar -a astar -h chebyshev graphe.txt
 ```
 
 ### Sortie
