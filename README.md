@@ -13,8 +13,6 @@
 2. [Prérequis et Dépendances](#prérequis-et-dépendances)
 3. [Installation et Compilation](#installation-et-compilation)
 4. [Exécution avec JAR](#exécution-avec-jar)
-5. [Auteurs](#auteurs)
-
 ---
 
 ## Informations Projet
