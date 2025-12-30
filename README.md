@@ -1,7 +1,7 @@
 
-# Algorithmes de Plus Court Chemin
+# MapPathFinder
 
-> Projet d'Algorithmique et Optimisation — S5 2025
+> Projet d'Algorithmique S5 2025
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
