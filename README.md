@@ -80,7 +80,7 @@ java -cp bin up.MainApp.App
 
 ```bash
 # Aide
-java -jar PathFinder.jar --help
+java -jar MapPathFinder.jar --help
 
 # Dijkstra (défaut)
 java -jar MapPathFinder.jar graphe.txt
