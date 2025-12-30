@@ -17,8 +17,6 @@
 
 ## Informations Projet
 
-Ce projet implémente et compare les algorithmes de plus court chemin **Dijkstra** et **A*** sur des graphes pondérés et des labyrinthes. Il permet d'analyser l'efficacité des différentes heuristiques et de visualiser les résultats sur différents types de cartes.
-
 ### Arborescence du Projet
 
 ```
